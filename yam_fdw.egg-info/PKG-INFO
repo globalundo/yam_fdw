@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: yam-fdw
+Version: 0.7.1
+Summary: Yet Another Postgres FDW for MongoDB
+Home-page: http://github.com/asya999/yam_fdw
+Author: Asya Kamsky
+Author-email: asya@kamsky.org
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

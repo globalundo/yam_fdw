@@ -1,0 +1,7 @@
+setup.py
+yam_fdw/__init__.py
+yam_fdw.egg-info/PKG-INFO
+yam_fdw.egg-info/SOURCES.txt
+yam_fdw.egg-info/dependency_links.txt
+yam_fdw.egg-info/requires.txt
+yam_fdw.egg-info/top_level.txt
